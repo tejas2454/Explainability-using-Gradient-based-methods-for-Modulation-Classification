@@ -2,7 +2,6 @@
 # EGMC:Explainability using Gradient based methods for Modulation Classification
 # ================================================
 ## Student Name: Tejas Gaikwad
-## Instructor: Dr. Richa Singh
 ## Institute : Indian Institute of Technology Jodhpur
 ## Reseach Area : Applications of Machine Learning in Communication/ Telecommuniation Fields
 ## ================================================================
